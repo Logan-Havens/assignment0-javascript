@@ -1,5 +1,5 @@
 const hello = require('./hello');
-console.log("test");
+console.log("Hello world!");
 hello();
 
 <<<<<<< HEAD
