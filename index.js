@@ -1,3 +1,4 @@
 const hello = require('./hello');
+console.log("test");
+hello();
 
-console.log(hello());
